@@ -2,7 +2,7 @@
 
 ## General Info on CRB Biology and Management
 
-Moore, Aubrey, Trevor Jackson, Roland Quitugua, Robert Bevacqua, Jonae Sayama, and Ross Miller. “Coconut Rhinoceros Beetle. US Forest Service, Forest Insect and Disease Leaflet 191.” April 2023. [PDF](https://www.fs.usda.gov/foresthealth/docs/fidls/FIDL-191-CoconutRhinocerosBeetle.pdf). USDA is blocking my access to the preceeding link for some unknown reason. Please let me know if the link works for you. Otherwise, try this one: <https://raw.githubusercontent.com/aubreymoore/crb-refs-2026-04-03/main/FIDL191.pdf>
+Moore, Aubrey, Trevor Jackson, Roland Quitugua, Robert Bevacqua, Jonae Sayama, and Ross Miller. “Coconut Rhinoceros Beetle. US Forest Service, Forest Insect and Disease Leaflet 191.” April 2023. <https://www.fs.usda.gov/foresthealth/docs/fidls/FIDL-191-CoconutRhinocerosBeetle.pdf>. USDA is blocking my access to the preceeding link for some unknown reason. Please let me know if the link works for you. Otherwise, try this one: <https://raw.githubusercontent.com/aubreymoore/crb-refs-2026-04-03/main/FIDL191.pdf>
 
 ## CRB Trapping
 
