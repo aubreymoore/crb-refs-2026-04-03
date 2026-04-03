@@ -17,8 +17,8 @@ Moore, Aubrey, and Roland Quitugua. Test of Netting as a Physical Barrier for CR
 
 ## CRB Damage Surveys
 
-Mansfield, Sarah, Balanama Asigau, Chikako van Koten, et al. “Assessment of Coconut Palm Damage Caused by Coconut Rhinoceros Beetle, Oryctes Rhinoceros (Coleoptera: Scarabaeidae).” New Zealand Journal of Crop and Horticultural Science 0, no. 0 (2023): 1–22. [PDF](https://doi.org/10.1080/01140671.2023.2278791).
+Mansfield, Sarah, Balanama Asigau, Chikako van Koten, et al. “Assessment of Coconut Palm Damage Caused by Coconut Rhinoceros Beetle, *Oryctes rhinoceros* (Coleoptera: Scarabaeidae).” New Zealand Journal of Crop and Horticultural Science 0, no. 0 (2023): 1–22. [PDF](https://doi.org/10.1080/01140671.2023.2278791).
 
 ## CRB Detection using Environmental DNA
 
-Kyle, Kathleen, Michael Allen, Mario Hernandez, et al. Integrating Environmental DNA Into Early Detection Efforts for an Invasive Terrestrial Beetle.â€ Environmental DNA 8 (March 2026). https://doi.org/10.1002/edn3.70262.
+Kyle, Kathleen, Michael Allen, Mario Hernandez, et al. Integrating Environmental DNA Into Early Detection Efforts for an Invasive Terrestrial Beetle. Environmental DNA 8 (March 2026). <https://doi.org/10.1002/edn3.70262>.
